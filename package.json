@@ -1,0 +1,14 @@
+
+{
+  "name": "saweria-leaderboard",
+  "version": "1.0.0",
+  "description": "Automatic Saweria Top 5 All Time Leaderboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0",
+    "express": "^5.1.0"
+  }
+}
